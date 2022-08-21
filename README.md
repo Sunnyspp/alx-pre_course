@@ -1,7 +1,1 @@
-exit
-
-
-
-clear
-
-
+My second readme
